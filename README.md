@@ -1,5 +1,8 @@
 # MOEVUE
 
+*Notice*
+This app is still in beta.  We are not responsible for any damage.
+
 ### Preview
 
 ![](https://github.com/yuichi555/moevue_support/blob/master/assets/promo.gif)
