@@ -1,5 +1,9 @@
 # MOEVUE
 
+### Preview
+
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/promo.gif)
+
 ### Description
 
 A video management app created by Electron.
