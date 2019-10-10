@@ -13,38 +13,38 @@ The following functions are available.
 
 ### Screen Image
 
-![](assets/capture.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/capture.PNG)
 
 ### Usage
 
 * Once you launch the app, you ’ll see a list of videos.
 * To create a thumbnail, click the sync button from the speed dial at the bottom right.
 
-![](assets/dial.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/dial.PNG)
 
 * The number of thumbnails created can be selected from 0 to 10.
   To create thumbnails, ffmpeg must be installed.
 
-![](assets/settings.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/settings.PNG)
 
 * The size of the photos displayed in the list varies depending on the number of thumbnails.
   The following is an image when the number of thumbnails is 3 or 6.
 
 *3 Thumbnails*
 
-![](assets/thumb3.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/thumb3.PNG)
 
 *6 Thumbnails*
 
-![](assets/thumb6.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/thumb6.PNG)
 
 * You can tag videos.
   The tag name and color can be set freely, and you can also filter by the left sidebar.
 
 *specify tags*
-![](assets/tagselection.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/tagselection.PNG)
 
 *editing Tags*
-![](assets/edittag.png)
+![](https://github.com/yuichi555/moevue_support/blob/master/assets/edittag.PNG)
 
 If you have any problems or requests, please contact us from issue.
