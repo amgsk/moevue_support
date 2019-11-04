@@ -24,11 +24,12 @@ The following functions are available.
 
 ### Usage
 
-* Once you launch the app, you ’ll see a list of videos.
-* To create a thumbnail, click the sync button from the speed dial at the bottom right.
+* After starting the app, please perform the synchronization process from the bottom right button.
+* The app does not detect the addition of video files. If you want to include the file as a management target, perform the synchronization process.
 
 ![](https://github.com/yuichi555/moevue_support/blob/master/assets/dial.PNG)
 
+* The number of thumbnails can be set from 1 to 10. If set to 10, the synchronization process may take some time.
 * The number of thumbnails created can be selected from 0 to 10.
   To create thumbnails, ffmpeg must be installed.
 
@@ -53,5 +54,14 @@ The following functions are available.
 
 *editing Tags*
 ![](https://github.com/yuichi555/moevue_support/blob/master/assets/edittag.PNG)
+
+### If a problem occurs
+* Delete the `\movue\*.db` file under the user directory and restart.
+
+### New features under consideration
+
+* Automatic tagging process
+* Create a thumbnail by specifying a video file
+* Create new files without recreating thumbnails
 
 If you have any problems or requests, please contact us from issue.
